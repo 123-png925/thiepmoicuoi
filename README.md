@@ -247,6 +247,27 @@ body {
           <b>Số tài khoản:</b> 1048034865<br>
           <b>Chủ tài khoản:</b> BUI VAN DONG
         </div>
+        <hr class="divider">
+        <h2>🗺️ Bản Đồ Đường Đi 🗺️</h2>
+        <div style="margin-bottom:15px; font-size:14px;">Nhấn vào bản đồ để mở Google Maps và xem đường đi:</div>
+        <div style="position: relative; width: 100%; height: 300px; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(130,38,89,0.2); margin: 15px 0; border: 2px solid #d6002f;">
+          <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.5!2d105.3!3d21.4!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjHCsDI0JzAwLjAiTiAxMDXCsDE4JzAwLjAiRQ!5e0!3m2!1svi!2s!4v1234567890"
+            width="100%" 
+            height="100%" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade">
+          </iframe>
+        </div>
+        <div style="font-size:13px; color:#666; text-align:center; margin-bottom:10px;">
+          📍 <b>Địa chỉ:</b> Xóm Chỉ Ngoài, Xã Nật Sơn, Tỉnh Phú Thọ
+        </div>
+        <div style="text-align:center; margin-top:10px;">
+          <a href="https://www.google.com/maps/search/?api=1&query=Xóm+Chỉ+Ngoài,+Xã+Nật+Sơn,+Phú+Thọ,+Việt+Nam" target="_blank" style="display:inline-block; padding:10px 20px; background:#b21c5c; color:white; text-decoration:none; border-radius:20px; font-size:14px; box-shadow: 0 4px 12px rgba(178,28,92,0.3);">
+            🧭 Mở trong Google Maps
+          </a>
       </div>
     </div>
   </div>
